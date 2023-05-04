@@ -2,8 +2,19 @@ git init
 git add chapter1.txt
 git commit -m "completed chapter1"
 
- git config --global user.email "raaseem4237@gmail.com"
+ git config --global user.email "m"
   git config --global user.name "Raaseem"
 
 git log
 history
+git diff
+git checkout chapter3.txt
+
+git remote add origin link
+git push -u origin
+
+git -a (hidden files found)
+
+git clone link
+
+git branch 
